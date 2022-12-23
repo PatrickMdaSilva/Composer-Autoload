@@ -1,0 +1,16 @@
+{
+    "name": "patrick/composer",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/App"
+        }
+    },
+    "authors": [
+        {
+            "name": "PatrickMdaSilva",
+            "email": "patrick15k@hotmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
